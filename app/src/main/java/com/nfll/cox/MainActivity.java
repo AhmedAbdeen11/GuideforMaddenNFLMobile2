@@ -15,6 +15,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(this, "Project Test", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Project Test", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Project Test", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Project Test", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Project Test", Toast.LENGTH_SHORT).show();
     }
 
     public void tips(View view) {
